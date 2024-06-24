@@ -23,7 +23,7 @@ plnt <- awesomeIcons(
         library = "ion"
 )
 uni <- awesomeIcons(
-        icon = "building-columns",
+        icon = "pencil",
         iconColor = "#fff",
         library = "fa"
 )
