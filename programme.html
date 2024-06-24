@@ -100,6 +100,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="sidebar-title mb-0 py-0">
       <a href="./">UnArchaeology</a> 
         <div class="sidebar-tools-main">
+    <a href="https://github.com/bbartholdy/unarchaeology.nl" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
@@ -193,9 +194,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><strong>This is a tentative programme</strong></p>
-<p>The main Unconference activities will take place on <a href="#day-1">Day 1</a>. For those who choose to stay, <a href="#day-2">Day 2</a> will involve working together on conference outputs that were proposed during the brainstorming session.</p>
+<p>The main Unconference activities will take place on Day 1. For those who choose to stay, Day 2 will involve working together on conference outputs that were proposed during the brainstorming session.</p>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">Day 1</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Day 2</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">Day 1</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Day 2 (optional)</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
 <table class="caption-top table">
@@ -218,7 +219,7 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>9.30</td>
-<td><p><iconify-icon inline="" icon="fluent-emoji:hot-beverage" style="font-size: 2em;" aria-label="Icon hot-beverage from fluent-emoji Iconify.design set." title="Icon hot-beverage from fluent-emoji Iconify.design set."></iconify-icon></p></td>
+<td><p><iconify-icon inline="" icon="noto:high-speed-train" style="font-size: 2em;" aria-label="Icon high-speed-train from noto Iconify.design set." title="Icon high-speed-train from noto Iconify.design set."></iconify-icon></p></td>
 <td>Arrive</td>
 <td>Self-explanatory</td>
 <td>Spotlight</td>
@@ -262,8 +263,8 @@ ul.task-list li input[type="checkbox"] {
 <td>13.30</td>
 <td><p><iconify-icon inline="" icon="noto:woman-singer-light-skin-tone" style="font-size: 2em;" aria-label="Icon woman-singer-light-skin-tone from noto Iconify.design set." title="Icon woman-singer-light-skin-tone from noto Iconify.design set."></iconify-icon></p></td>
 <td>Talks</td>
-<td>Topics and speakers will be determined by the participants prior to the event.</td>
-<td>Spotlight <br> Concept corner <br> Whiteboard</td>
+<td>Proposed presentations will be voted on by participants during the morning and lunch.</td>
+<td>Spotlight</td>
 </tr>
 <tr class="even">
 <td>14.30</td>
@@ -595,7 +596,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/bbartholdy\.github\.io\/unarchaeology\.nl\/");
+      var filterRegex = new RegExp("https:\/\/unarchaeology\.nl");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

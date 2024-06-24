@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="custom.css">
 </head>
 
-<body class="nav-sidebar docked fullcontent">
+<body class="nav-sidebar docked">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -99,6 +99,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="sidebar-title mb-0 py-0">
       <a href="./">UnArchaeology</a> 
         <div class="sidebar-tools-main">
+    <a href="https://github.com/bbartholdy/unarchaeology.nl" title="" class="quarto-navigation-tool px-1" aria-label="GitHub"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
@@ -168,7 +169,17 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#workshop-hosts" id="toc-workshop-hosts" class="nav-link active" data-scroll-target="#workshop-hosts">Workshop hosts</a></li>
+  <li><a href="#presenters" id="toc-presenters" class="nav-link" data-scroll-target="#presenters">Presenters</a></li>
+  <li><a href="#general" id="toc-general" class="nav-link" data-scroll-target="#general">General</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -196,22 +207,20 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>We are a collective of archaeologists committed to the active support of archaeology students from working-class and historically looted communities who are both regularly excluded by traditional scholarship and academic programs, or who require more economic support than those resources cover.</p>
 </blockquote>
-<section id="presenters" class="level2">
-<h2 class="anchored" data-anchor-id="presenters">Presenters</h2>
-<p><strong>Registration for presenters will open…</strong></p>
-<p>We welcome all presentations on the topic of Open Science in Archaeology. During registration you will be able to provide a description of the presentation. There are no requirements for this description. Topics can range from Open Science success stories (open research and education), research related to open science, useful tools (R and python packages), and more. The sky is the limit! (figuratively speaking; topics should ideally be related to Open Science and/or archaeology) Descriptions will not be published, so we welcome relevant presentations that have already been presented at other venues; please do re-use previous presentations!</p>
-<p>Presentations will be a maximum of 10 minutes. There will be no questions after the talks, as the next item in the programme involves discussions on the topics of the talks, and questions can be asked during this time.</p>
-<p>If there are more proposed talks than time allows, we will have a board where participants can vote for the presentations they would like to attend on the morning of the Unconference.</p>
-</section>
 <section id="workshop-hosts" class="level2">
 <h2 class="anchored" data-anchor-id="workshop-hosts">Workshop hosts</h2>
-<p><strong>Registration for workshop hosts is open</strong></p>
-<p>We welcome proposed workshops on any topic related to Open Science practices (e.g., FAIR data, open source tools, etc). We will be able to accommodate 3-4 workshops of around 45-90 mins in length. All proposed workshop topics will be voted on by participants, and the top 3 will be given at the Unconference.</p>
+<p><strong>Registration for workshop hosts will open soon</strong></p>
+<p>We welcome proposed workshops on any topic related to Open Science practices (e.g., FAIR data, open source tools, etc). We will be able to accommodate 3-4 workshops of 45 or 90 mins in length. If more workshop topics are proposed than we can accommodate, participants can indicate their preferred topics during registration and the 3-4 most popular topics will be given at the Unconference.</p>
 </section>
-<section id="registration" class="level2">
-<h2 class="anchored" data-anchor-id="registration">Registration</h2>
-<p><strong>General registration will open…</strong></p>
-<p>Registration will be initially open for presenters and workshop hosts. Registration for all attendees will open 1st of August.</p>
+<section id="presenters" class="level2">
+<h2 class="anchored" data-anchor-id="presenters">Presenters</h2>
+<p><strong>Registration for presenters will open 21st of July</strong></p>
+<p>We welcome all presentations on the topic of Open Science in Archaeology. Topics can range from Open Science success stories (open research and education), research related to open science, useful tools (R and python packages), and more. The sky is the limit! (figuratively speaking; topics should ideally be related to Open Science and/or archaeology) Descriptions will not be published, so we welcome relevant presentations that have already been presented at other venues; please do re-use previous presentations!</p>
+</section>
+<section id="general" class="level2">
+<h2 class="anchored" data-anchor-id="general">General</h2>
+<p><strong>General registration will open 21st of July</strong></p>
+<p>Registration will initially only be open for workshop hosts. Registration for all attendees will open 1st of August.</p>
 <!-- embed registration code from Eventbrite -->
 
 
@@ -454,7 +463,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/bbartholdy\.github\.io\/unarchaeology\.nl\/");
+      var filterRegex = new RegExp("https:\/\/unarchaeology\.nl");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

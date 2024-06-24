@@ -1,1 +1,1 @@
-Sitemap: https://bbartholdy.github.io/unarchaeology.nl/sitemap.xml
+Sitemap: https://unarchaeology.nl/sitemap.xml
