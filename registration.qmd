@@ -16,16 +16,24 @@ archaeology students from working-class and historically looted communities
 who are both regularly excluded by traditional scholarship and academic programs,
 or who require more economic support than those resources cover.
 
+{{< include registration-link.html >}}
+
+**If you have an adblocker or javascript disabled, you may not be able to see the registration window**
+
+In this case you can go to the
+[Eventbrite page](https://www.eventbrite.nl/e/unarchaeology-tickets-921521093397)
+to register.
+
 
 ## Workshop hosts
 
-**Registration for workshop hosts will open soon**
+**Registration for workshop hosts is now open**
 
 We welcome proposed workshops on any topic related to Open Science practices (e.g.,
 FAIR data, open source tools, etc). We will be able to accommodate 3-4 workshops
 of 45 or 90 mins in length. If more workshop topics are proposed than we can accommodate,
 participants can indicate their preferred topics during registration and the 3-4 most
-popular topics will be given at the Unconference.
+popular topics will be selected for the unconference.
 
 
 ## Presenters
@@ -45,7 +53,4 @@ been presented at other venues; please do re-use previous presentations!
 
 **General registration will open 21st of July**
 
-Registration will initially only be open for workshop hosts. Registration
-for all attendees will open 1st of August.
-
-<!-- embed registration code from Eventbrite -->
+Registration will initially only be open for workshop hosts.
