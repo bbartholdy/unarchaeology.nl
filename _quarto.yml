@@ -3,8 +3,14 @@ project:
 
 website:
   title: UnArchaeology
+  site-url: "https://unarchaeology.nl"
+  repo-url: "https://github.com/bbartholdy/unarchaeology.nl"
   sidebar: 
     style: docked
+    tools: 
+      - icon: github
+        href: "https://github.com/bbartholdy/unarchaeology.nl"
+        aria-label: GitHub
     contents: 
       - href: index.qmd
         text: Home
