@@ -80,7 +80,11 @@ the brainstorming session of the previous day.
 
 Questions?
 
-info [at] unarchaeology.nl
+b.p.bartholdy [at] tudelft.nl
+
+or 
+
+[GitHub discussions](https://github.com/bbartholdy/unarchaeology.nl/discussions)
 
 ## Funders
 
