@@ -5,7 +5,7 @@ format:
     toc: true
 ---
 
-![Photo by <a href="https://unsplash.com/@jramiroz98?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jose Zuniga</a> on <a href="https://unsplash.com/photos/bikes-on-bridge-oaBLgCmm9NI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>](https://images.unsplash.com/photo-1576025816600-756e7df7d0b4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Photo by <a href="https://unsplash.com/@jramiroz98?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jose Zuniga</a> on <a href="https://unsplash.com/photos/bikes-on-bridge-oaBLgCmm9NI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>](https://images.unsplash.com/photo-1576025816600-756e7df7d0b4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){.crop}
 
 
 ::: {.callout}
