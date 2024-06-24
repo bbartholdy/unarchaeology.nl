@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://unarchaeology.nl/workshops.html</loc>
-    <lastmod>2024-06-24T10:18:00.559Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unarchaeology.nl/venue.html</loc>
-    <lastmod>2024-06-24T12:42:54.425Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unarchaeology.nl/marketplace.html</loc>
-    <lastmod>2024-06-24T08:52:20.414Z</lastmod>
-  </url>
-  <url>
-    <loc>https://unarchaeology.nl/index.html</loc>
-    <lastmod>2024-06-24T11:39:58.372Z</lastmod>
+    <loc>https://unarchaeology.nl/programme.html</loc>
+    <lastmod>2024-06-24T13:40:50.159Z</lastmod>
   </url>
   <url>
     <loc>https://unarchaeology.nl/presentations.html</loc>
-    <lastmod>2024-06-24T12:28:47.025Z</lastmod>
+    <lastmod>2024-06-24T13:40:50.159Z</lastmod>
   </url>
   <url>
     <loc>https://unarchaeology.nl/registration.html</loc>
-    <lastmod>2024-06-24T12:21:57.426Z</lastmod>
+    <lastmod>2024-06-24T13:40:50.159Z</lastmod>
   </url>
   <url>
-    <loc>https://unarchaeology.nl/programme.html</loc>
-    <lastmod>2024-06-24T12:16:58.360Z</lastmod>
+    <loc>https://unarchaeology.nl/venue.html</loc>
+    <lastmod>2024-06-24T13:40:50.159Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unarchaeology.nl/workshops.html</loc>
+    <lastmod>2024-06-24T13:40:50.159Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unarchaeology.nl/index.html</loc>
+    <lastmod>2024-06-24T13:40:50.159Z</lastmod>
+  </url>
+  <url>
+    <loc>https://unarchaeology.nl/marketplace.html</loc>
+    <lastmod>2024-06-24T13:40:50.159Z</lastmod>
   </url>
 </urlset>
