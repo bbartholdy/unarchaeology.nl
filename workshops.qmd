@@ -1,0 +1,10 @@
+---
+title: Workshops
+---
+
+![Photo by <a href="https://unsplash.com/@jasongoodman_youxventures?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jason Goodman</a> on <a href="https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+Workshops on Open Science topics will be given on the morning of the first day.
+We are currently accepting proposals for workshop topics.
+
+<!-- link to registration for workshop proposals - email address?? -->

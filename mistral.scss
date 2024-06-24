@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+
+/*
+
+Mistral 8x7B (via duckduckgo)
+
+Sure, I'd be happy to help generate a color palette for an unconference on open science in archaeology. Here's a selection of colors that I think could work well together and evoke a sense of openness, collaboration, and exploration:
+
+    #F9EDE7: A soft, warm off-white that suggests openness and transparency.
+    #4ECDC4: A bright, vibrant teal that represents growth, innovation, and discovery.
+    #F69D2B: A bold, earthy mustard yellow that reflects the historical and archaeological themes of the event.
+    #2E4053: A deep, rich navy blue that conveys trust, expertise, and stability.
+    #E76F51: A fiery, energetic coral that adds a touch of excitement and passion to the palette.
+
+I hope this color palette helps set the tone for a successful and inspiring unconference on open science in archaeology!
+
+*/
+
+// Colours
+$offwhite: #F9EDE7;
+$teal: #4ECDC4;
+$mustard: #F69D2B;
+$navy: #2E4053;
+$coral: #E76F51;
+
+// document colours
+$body-bg: $navy;
+$body-color: $offwhite;
+$sidebar-bg: $teal;
+$sidebar-fg: #000;
+$sidebar-h1: $mustard;
+$link-color: $mustard;
+
+// fonts
+$font-family-sans-serif: Montserrat;
+$font-size-root: 1.1em;
+
+/*-- scss:rules --*/
+
+
+

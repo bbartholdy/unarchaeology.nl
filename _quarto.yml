@@ -1,0 +1,28 @@
+project: 
+  type: website
+
+website:
+  title: UnArchaeology
+  sidebar: 
+    style: docked
+    contents: 
+      - href: index.qmd
+        text: Home
+      - section: Programme
+        contents: 
+          - href: programme.qmd
+            text: Schedule
+          - href: workshops.qmd
+            text: Workshops
+          - href: presentations.qmd
+            text: Presentations
+      - href: registration.qmd
+      - href: marketplace.qmd
+      - href: venue.qmd
+
+format: 
+  html: 
+    css: custom.css
+    theme:
+      dark: mistral.scss
+      light: claude.scss

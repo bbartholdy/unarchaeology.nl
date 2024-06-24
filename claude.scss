@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+
+/* AI-generated colour theme 
+prompt: Can you generate a random colour palette that you would associate with an unconference on open science in archaeology?
+
+Claude 3 (via duckduckgo)
+
+Sky Blue (#87CEEB)
+Sage Green (#9acd32)
+Sunshine Yellow (#FFDB58)
+Lavender (#E6E6FA)
+Coral (#FF7F50)
+
+This palette features a mix of bright, open, and collaborative colors that evoke the spirit of open science. The sky blue and sage green have a fresh, natural feel, while the sunshine yellow and lavender add a sense of creativity and innovation. The coral accent color provides a vibrant pop of energy.
+
+Together, these colors could work well for branding, visuals, and decor for an unconference focused on open approaches in archaeology. The palette has an open, inclusive, and forward-thinking vibe that aligns with the values of open science. The natural tones balance nicely with the more vibrant hues to create a well-rounded color scheme.
+
+*/
+
+// Colours
+$skyblue: #87CEEB;
+$sagegreen: #9acd32;
+$sunshineyellow: #FFDB58;
+$lavender: #E6E6FA;
+$coral: #FF7F50;
+
+$body-bg: #fff;
+$sidebar-bg: $coral;
+$sidebar-fg: #fff;
+$sidebar-h1: #fff;
+$link-color: $sagegreen;
+
+// fonts
+$font-family-sans-serif: Open Sans;
+$font-size-root: 1.1em;
+
+//$h2-font-size:          1.6rem !default;
+//$headings-font-weight:  500 !default;
+
+/*-- scss:rules --*/
+
+/*h1, h2, h3, h4, h5, h6 {
+  text-shadow: -1px -1px 0 rgba(0, 0, 0, .3);
+}*/

@@ -1,0 +1,39 @@
+---
+title: Tentative Unconference Programme
+---
+
+**This is a tentative programme**
+
+The main Unconference activities will take place on [Day 1](#day-1).
+For those who choose to stay, [Day 2](#day-2) will involve working
+together on conference outputs that were proposed during the
+brainstorming session.
+
+::: {.panel-tabset}
+## Day 1
+
+| Time |   | Activity | Details | Room |
+|------|---|-------|---------|------|
+| 9.30 | {{< iconify hot-beverage size=2x >}} | Arrive  | Self-explanatory | Spotlight |
+| 10.00 | {{< iconify waving-hand size=2x >}} | Welcome | Welcome presentation | Spotlight |
+| 10.20 | {{< iconify noto:teacher-dark-skin-tone size=2x >}} | Parallel Workshops | Multiple skill-up workshops will be given on Open Science-related topics | Spotlight <br> Concept corner <br> Whiteboard |
+| 11.10 | {{< iconify hot-beverage size=2x >}} | Break | Coffee/tea break | Spotlight |
+| 11.25 | {{< iconify noto:man-teacher-medium-light-skin-tone size=2x >}} | Workshops (cont.) | Back to the workshops | Spotlight <br> Concept corner <br> Whiteboard |
+| 12.15 | {{< iconify noto:sandwich size=2x >}} | Marketplace/Lunch | Booths will be placed in the lunch area with various Open Science-related platforms/communities | Brainstorm |
+| 13.30 | {{< iconify noto:woman-singer-light-skin-tone size=2x >}} | Talks | Topics and speakers will be determined by the participants prior to the event. | Spotlight <br> Concept corner <br> Whiteboard |
+| 14.30 | {{< iconify hot-beverage size=2x >}} | Break | coffee/tea break | Spotlight |
+| 14.45 | {{< iconify noto:speech-balloon size=2x >}} | Discussions | Breakout rooms to discuss the talks and other potential topics determined by participants | Spotlight <br> Concept corner <br> Whiteboard <br> Brainstorm |
+| 15.30 | {{< iconify noto:thinking-face size=2x >}} | Brainstorming | Brainstorming potential unconference outputs to be worked on during the hackathon on day 2 | Brainstorm |
+| 16.15 | {{< iconify waving-hand size=2x >}} | Wrap-up | | Brainstorm |
+| 16.30 | {{< iconify noto:speaking-head size=2x >}} | Networking | Drinks and networking | Brainstorm |
+
+## Day 2
+
+| Time |   | Activity | Details | Room |
+|------|---|----------|---------|------|
+| 09.00 | {{< iconify noto:writing-hand-medium-dark-skin-tone size=2x >}} | Hackathon/Brainstorming | Those who wish to stay for the optional second day will work on the unconference outputs. | TBD |
+| 10.30 | {{< iconify hot-beverage size=2x >}} | Break | Coffee/tea break | TBD |
+| 10.45 | {{< iconify noto:writing-hand-light-skin-tone size=2x >}} | Hackathon | | TBD |
+| 12.30 | {{< iconify noto:sandwich size=2x >}} | Lunch and wrap up | | TBD |
+
+:::

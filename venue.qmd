@@ -1,0 +1,31 @@
+---
+title: Venue
+execute: 
+  echo: false
+---
+
+PLNT  
+Langegracht 70  
+2312 NV LEIDEN  
+Netherlands
+
+
+```{r}
+library(leaflet)
+train <- awesomeIcons(
+        icon = "train",
+        iconColor = "#fff",
+        library = "fa"
+)
+plnt <- awesomeIcons(
+        icon = "star",
+        iconColor = "white",
+        library = "ion"
+)
+
+leaflet() |>
+  addTiles() |>  # Add default OpenStreetMap map tiles
+  #addMarkers(lat=52.163, lng=4.492, popup="PLNT Leiden") |>
+  addAwesomeMarkers(lat=52.163631, lng=4.492347, popup="PLNT Leiden <br> Unconference venue", icon = plnt) |>
+  addAwesomeMarkers(lat = 52.166249, lng = 4.481795, icon = train, popup="Leiden Central Station")
+```

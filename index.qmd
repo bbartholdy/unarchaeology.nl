@@ -1,0 +1,87 @@
+---
+title: "Open Science in Archaeology: An Unconference"
+format: 
+  html: 
+    toc: true
+---
+
+![Photo by <a href="https://unsplash.com/@jramiroz98?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jose Zuniga</a> on <a href="https://unsplash.com/photos/bikes-on-bridge-oaBLgCmm9NI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>](https://images.unsplash.com/photo-1576025816600-756e7df7d0b4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+
+::: {.callout}
+
+**When:** 7th (and 8th) November, 2024
+
+**Where:** PLNT, Langegracht 70, Leiden, Netherlands
+
+**Who:** Open to anyone with an interest in Open Science and/or archaeology
+
+**Why:** Why not?
+
+<a class="button" href="registration.html" aria-label="Go to the registration page"><span>Registration</span></a>
+
+:::
+
+We aim to provide a venue, in the form of an unconference, where archaeologists with a (budding) passion
+for Open Science can meet to exchange ideas and experiences. During the unconference we also hope to
+improve awareness of Open Science in archaeology, as well as to help people convert awareness into
+practice by offering skill-up workshops and developing basic guidelines for practising and teaching Open Science.
+
+By bringing together experienced Open Science practitioners with researchers who are interested in employing
+Open Science in their research but don’t know where to begin, we will identify the needs of novice
+practitioners and develop useful guidelines for getting started with Open Science in archaeology.
+
+By organising an event specifically focused on Open Science as opposed to field-specific topics,
+we aim to bring together people from across archaeological subdisciplines who normally don’t have
+a platform for collaboration. 
+
+The themes for the unconference will be Education, focusing on developing
+guidelines and integrating Open Science in the regular curricula, and AI, specifically concerning the
+ethics and reproducibility of its use in archaeology.
+
+
+
+## An Un-what??
+
+::: {.questions}
+**Do you often find yourself coming back from an academic conference with little to show for it?**
+
+**Are you sick of sitting in a room and watching presentations all day?**
+
+**Do you find the networking to be the most important part of a conference tour?**
+
+**Are you frustrated by the increasing cost of registration?**
+
+. . .
+
+:::
+
+If you answered 'yes' to at least one of these, then an Unconference is perfect for you!
+
+An Unconference is intentionally a very different take on the typical academic conference.
+Participants are at the center of the Unconference, where the content of the conference
+is largely defined by what participants want to see (with a predefined overarching theme).
+An Unconference also encourages collaboration, whether this is collaboratively deciding on
+the topics for discussion, or co-creating output documents resulting from Unconference
+sessions.
+
+The event will consist of morning workshops that will provide training in various
+Open Science-related skills. During lunch, there will be a marketplace where Open Science
+related communities, infrastructures, etc., will have the opportunity to set up a booth and
+interact with the participants of the event. The afternoon will consist of presentations by
+participants, on topics chosen by the participants, followed by discussion sessions for the
+presentations and additional discussion topics (including AI in archaeology). The end of the
+first day will consist of a brainstorming session where participants will come up with ideas
+for outputs for the Unconference, followed by drinks and networking. The second half-day will
+be a hackathon, where those interested will work on the Unconference outputs suggested during
+the brainstorming session of the previous day.
+
+## Contact
+
+Questions?
+
+info [at] unarchaeology.nl
+
+## Funders
+
+Open Science NL
