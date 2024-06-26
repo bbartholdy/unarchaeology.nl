@@ -9,7 +9,7 @@ Presentations on Open Science and archaeology topics will be given in the aftern
 We welcome all presentations on the topic of Open Science in Archaeology.
 Topics can range from Open Science
 success stories (open research and education), research related to open science,
-useful tools (R and python packages), and more. The sky is the limit! (figuratively speaking;
+useful tools (R and Python packages), and more. The sky is the limit! (figuratively speaking;
 topics should ideally be related to Open Science and/or archaeology)
 Descriptions will not be published, so we welcome relevant presentations that have already
 been presented at other venues; reduce, reuse, recycle!
@@ -28,6 +28,6 @@ questions can be asked during this time. We also encourage further discussion du
 networking.
 
 Pitches should should give a quick overview of the
-discussion topic, problem, or a proposed output (blog, book, etc). Why is it relevant?
+discussion topic, problem, or a proposed output (such as a blog, book). Why is it relevant?
 What kind of help/expertise is needed? What is in it for the participants?
 
