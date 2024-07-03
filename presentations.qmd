@@ -25,7 +25,8 @@ the Unconference where participants can vote for the presentations they would li
 Presentations are 5-10 minutes. There will be no questions after the talks,
 as the next item in the programme involves discussions on the topics of the talks, and
 questions can be asked during this time. We also encourage further discussion during
-networking.
+networking. If you would like to encourage a discussion from your presentation, make
+sure to pose some questions or items of discussion at the end of your talk.
 
 Pitches should should give a quick overview of the
 discussion topic, problem, or a proposed output (blog, book, etc). Why is it relevant?
