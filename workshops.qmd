@@ -10,8 +10,8 @@ or 90-minute workshops.
 
 ## Guidelines for workshop proposals
 
-When preparing the description of you workshop, make sure to include the following:
+When preparing the description of you workshop (maximum of 200 words), make sure to include the following:
 
 - what’s in it for the participants
 - what’s the main (learning) objective of the workshop
-- what interactive format will be used”.
+- what interactive format will be used.

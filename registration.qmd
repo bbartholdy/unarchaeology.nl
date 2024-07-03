@@ -43,7 +43,7 @@ popular topics will be selected for the unconference.
 We welcome all presentations on the topic of Open Science in Archaeology.
 Topics can range from Open Science
 success stories (open research and education), research related to open science,
-useful tools (R and python packages), and more. The sky is the limit! (figuratively speaking;
+useful tools (R and Python packages), and more. The sky is the limit! (figuratively speaking;
 topics should ideally be related to Open Science and/or archaeology)
 Descriptions will not be published, so we welcome relevant presentations that have already
 been presented at other venues; please do re-use previous presentations!
