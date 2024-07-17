@@ -1,13 +1,42 @@
 [
   {
-    "objectID": "programme.html",
-    "href": "programme.html",
-    "title": "Unconference Programme",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Open Science in Archaeology: An Unconference",
     "section": "",
-    "text": "This is a tentative programme\nThe main Unconference activities will take place on Day 1. For those who choose to stay, Day 2 will involve working together on conference outputs that were proposed during the brainstorming session.\n\nDay 1Day 2 (optional)\n\n\n\n\n\n\n\n\n\n\n\n\nTime\n\nActivity\nDetails\nRoom\n\n\n\n\n9.30\n\nArrive\nSelf-explanatory\nSpotlight\n\n\n10.00\n\nWelcome\nWelcome presentation\nSpotlight\n\n\n10.20\n\nParallel Workshops\nMultiple skill-up workshops will be given on Open Science-related topics\nSpotlight  Concept corner  Whiteboard\n\n\n11.10\n\nBreak\nCoffee/tea break\nSpotlight\n\n\n11.25\n\nWorkshops (cont.)\nBack to the workshops\nSpotlight  Concept corner  Whiteboard\n\n\n12.15\n\nMarketplace/Lunch\nBooths will be placed in the lunch area with various Open Science-related platforms/communities\nBrainstorm\n\n\n13.30\n\nTalks\nProposed presentations will be voted on by participants during the morning and lunch.\nSpotlight\n\n\n14.30\n\nBreak\ncoffee/tea break\nSpotlight\n\n\n14.45\n\nDiscussions\nBreakout rooms to discuss the talks and other potential topics determined by participants\nSpotlight  Concept corner  Whiteboard  Brainstorm\n\n\n15.30\n\nBrainstorming\nBrainstorming potential unconference outputs to be worked on during the hackathon on day 2\nBrainstorm\n\n\n16.15\n\nWrap-up\n\nBrainstorm\n\n\n16.30\n\nNetworking\nDrinks and networking\nBrainstorm\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\n\nActivity\nDetails\nRoom\n\n\n\n\n09.00\n\nHackathon/Brainstorming\nThose who wish to stay for the optional second day will work on the unconference outputs.\nTBD\n\n\n10.30\n\nBreak\nCoffee/tea break\nTBD\n\n\n10.45\n\nHackathon\n\nTBD\n\n\n12.30\n\nLunch and wrap up\n\nTBD",
+    "text": "Photo by Jose Zuniga on Unsplash\nWe aim to provide a venue, in the form of an unconference, where archaeologists with a (budding) passion for Open Science can meet to exchange ideas and experiences. During the unconference we also hope to improve awareness of Open Science in archaeology, as well as to help people convert awareness into practice by offering skill-up workshops and developing basic guidelines for practising and teaching Open Science.\nBy bringing together experienced Open Science practitioners with researchers who are interested in employing Open Science in their research but don’t know where to begin, we will identify the needs of novice practitioners and develop useful guidelines for getting started with Open Science in archaeology.\nBy organising an event specifically focused on Open Science as opposed to field-specific topics, we aim to bring together people from across archaeological subdisciplines who normally don’t have a platform for collaboration.\nThe themes for the unconference will be Education, focusing on developing guidelines and integrating Open Science in the regular curricula, and AI, specifically concerning the ethics and reproducibility of its use in archaeology.",
     "crumbs": [
-      "Programme",
-      "Schedule"
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#an-un-what",
+    "href": "index.html#an-un-what",
+    "title": "Open Science in Archaeology: An Unconference",
+    "section": "An Un-what??",
+    "text": "An Un-what??\n\nDo you often find yourself coming back from an academic conference with little to show for it?\nAre you sick of sitting in a room and watching presentations all day?\nDo you find the networking to be the most important part of a conference tour?\nAre you frustrated by the increasing cost of registration?\n. . .\n\nIf you answered ‘yes’ to at least one of these, then an Unconference is perfect for you!\nAn Unconference is intentionally a very different take on the typical academic conference. Participants are at the center of the Unconference, where the content of the conference is largely defined by what participants want to see (with a predefined overarching theme). An Unconference also encourages collaboration, whether this is collaboratively deciding on the topics for discussion, or co-creating output documents resulting from Unconference sessions.\nThe event will consist of morning workshops that will provide training in various Open Science-related skills. During lunch, there will be a marketplace where Open Science related communities, infrastructures, etc., will have the opportunity to set up a booth and interact with the participants of the event. The afternoon will consist of presentations by participants, on topics chosen by the participants, followed by discussion sessions for the presentations and additional discussion topics (including AI in archaeology). The end of the first day will consist of a brainstorming session where participants will come up with ideas for outputs for the Unconference, followed by drinks and networking. The second half-day will be a hackathon, where those interested will work on the Unconference outputs suggested during the brainstorming session of the previous day.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Open Science in Archaeology: An Unconference",
+    "section": "Contact",
+    "text": "Contact\nQuestions?\nb.p.bartholdy [at] tudelft.nl\nor\nGitHub discussions",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#funders",
+    "href": "index.html#funders",
+    "title": "Open Science in Archaeology: An Unconference",
+    "section": "Funders",
+    "text": "Funders\nOpen Science NL",
+    "crumbs": [
+      "Home"
     ]
   },
   {
@@ -26,10 +55,41 @@
     "href": "presentations.html#guidelines-for-presenters",
     "title": "Presentations",
     "section": "Guidelines for presenters",
-    "text": "Guidelines for presenters\nPresentations are 5-10 minutes. There will be no questions after the talks, as the next item in the programme involves discussions on the topics of the talks, and questions can be asked during this time. We also encourage further discussion during networking.\nPitches should should give a quick overview of the discussion topic, problem, or a proposed output (such as a blog, book). Why is it relevant? What kind of help/expertise is needed? What is in it for the participants?",
+    "text": "Guidelines for presenters\nPresentations are 5-10 minutes. There will be no questions after the talks, as the next item in the programme involves discussions on the topics of the talks, and questions can be asked during this time. We also encourage further discussion during networking. If you would like to encourage a discussion from your presentation, make sure to pose some questions or items of discussion at the end of your talk.\nPitches should should give a quick overview of the discussion topic, problem, or a proposed output (such as a blog, book). Why is it relevant? What kind of help/expertise is needed? What is in it for the participants?",
     "crumbs": [
       "Programme",
       "Presentations"
+    ]
+  },
+  {
+    "objectID": "marketplace.html",
+    "href": "marketplace.html",
+    "title": "Marketplace",
+    "section": "",
+    "text": "Here you’ll be able to explore various tools and organisations that are relevant to practicing Open Science (in archaeology). During the event, some of these organisations will also be present.",
+    "crumbs": [
+      "Marketplace"
+    ]
+  },
+  {
+    "objectID": "programme.html",
+    "href": "programme.html",
+    "title": "Unconference Programme",
+    "section": "",
+    "text": "This is a tentative programme\nThe main Unconference activities will take place on Day 1. For those who choose to stay, Day 2 will involve working together on conference outputs that were proposed during the brainstorming session.\n\nDay 1Day 2 (optional)\n\n\n\n\n\n\n\n\n\n\n\n\nTime\n\nActivity\nDetails\nRoom\n\n\n\n\n9.30\n\nArrive\nSelf-explanatory\nSpotlight\n\n\n10.00\n\nWelcome\nWelcome presentation\nSpotlight\n\n\n10.20\n\nParallel Workshops\nMultiple skill-up workshops will be given on Open Science-related topics\nSpotlight  Concept corner  Whiteboard\n\n\n11.10\n\nBreak\nCoffee/tea break\nSpotlight\n\n\n11.25\n\nWorkshops (cont.)\nBack to the workshops\nSpotlight  Concept corner  Whiteboard\n\n\n12.15\n\nMarketplace/Lunch\nBooths will be placed in the lunch area with various Open Science-related platforms/communities\nBrainstorm\n\n\n13.30\n\nTalks\nProposed presentations will be voted on by participants during the morning and lunch.\nSpotlight\n\n\n14.30\n\nBreak\ncoffee/tea break\nSpotlight\n\n\n14.45\n\nDiscussions\nBreakout rooms to discuss the talks and other potential topics determined by participants\nSpotlight  Concept corner  Whiteboard  Brainstorm\n\n\n15.30\n\nBrainstorming\nBrainstorming potential unconference outputs to be worked on during the hackathon on day 2\nBrainstorm\n\n\n16.15\n\nWrap-up\n\nBrainstorm\n\n\n16.30\n\nNetworking\nDrinks and networking\nBrainstorm\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\n\nActivity\nDetails\nRoom\n\n\n\n\n09.00\n\nHackathon/Brainstorming\nThose who wish to stay for the optional second day will work on the unconference outputs.\nTBD\n\n\n10.30\n\nBreak\nCoffee/tea break\nTBD\n\n\n10.45\n\nHackathon\n\nTBD\n\n\n12.30\n\nLunch and wrap up\n\nTBD",
+    "crumbs": [
+      "Programme",
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "venue.html",
+    "href": "venue.html",
+    "title": "Venue",
+    "section": "",
+    "text": "PLNT\nLangegracht 70\n2312 NV LEIDEN\nNetherlands",
+    "crumbs": [
+      "Venue"
     ]
   },
   {
@@ -73,21 +133,11 @@
     ]
   },
   {
-    "objectID": "venue.html",
-    "href": "venue.html",
-    "title": "Venue",
-    "section": "",
-    "text": "PLNT\nLangegracht 70\n2312 NV LEIDEN\nNetherlands",
-    "crumbs": [
-      "Venue"
-    ]
-  },
-  {
     "objectID": "workshops.html",
     "href": "workshops.html",
     "title": "Workshops",
     "section": "",
-    "text": "Photo by Jason Goodman on Unsplash\nWorkshops on Open Science topics will be given in the morning of the first day. We are currently accepting proposals for 45- or 90-minute workshops.",
+    "text": "Photo by Jason Goodman on Unsplash\nWorkshops on Open Science topics will be given in the morning of the first day. We are currently accepting proposals for 45- or 90-minute workshops. The main goal of the workshops is to help participants become more comfortable in practicing Open Research, and provide an introduction to, or a more advanced exploration of, available resources and open source tools. These can be specific to archaeology or more general resources.",
     "crumbs": [
       "Programme",
       "Workshops"
@@ -98,60 +148,10 @@
     "href": "workshops.html#guidelines-for-workshop-proposals",
     "title": "Workshops",
     "section": "Guidelines for workshop proposals",
-    "text": "Guidelines for workshop proposals\nWhen preparing the description of you workshop (maximum of 200 words), make sure to include the following:\n\nwhat’s in it for the participants\nwhat’s the main (learning) objective of the workshop\nwhat interactive format will be used.",
+    "text": "Guidelines for workshop proposals\nWhen preparing the description of your workshop (maximum of 200 words), make sure to include the following:\n\nwhat’s in it for the participants\nwhat’s the main (learning) objective of the workshop\nwhat interactive format will be used\nwhat are the prerequisites (if any)",
     "crumbs": [
       "Programme",
       "Workshops"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Open Science in Archaeology: An Unconference",
-    "section": "",
-    "text": "Photo by Jose Zuniga on Unsplash\nWe aim to provide a venue, in the form of an unconference, where archaeologists with a (budding) passion for Open Science can meet to exchange ideas and experiences. During the unconference we also hope to improve awareness of Open Science in archaeology, as well as to help people convert awareness into practice by offering skill-up workshops and developing basic guidelines for practising and teaching Open Science.\nBy bringing together experienced Open Science practitioners with researchers who are interested in employing Open Science in their research but don’t know where to begin, we will identify the needs of novice practitioners and develop useful guidelines for getting started with Open Science in archaeology.\nBy organising an event specifically focused on Open Science as opposed to field-specific topics, we aim to bring together people from across archaeological subdisciplines who normally don’t have a platform for collaboration.\nThe themes for the unconference will be Education, focusing on developing guidelines and integrating Open Science in the regular curricula, and AI, specifically concerning the ethics and reproducibility of its use in archaeology.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#an-un-what",
-    "href": "index.html#an-un-what",
-    "title": "Open Science in Archaeology: An Unconference",
-    "section": "An Un-what??",
-    "text": "An Un-what??\n\nDo you often find yourself coming back from an academic conference with little to show for it?\nAre you sick of sitting in a room and watching presentations all day?\nDo you find the networking to be the most important part of a conference tour?\nAre you frustrated by the increasing cost of registration?\n. . .\n\nIf you answered ‘yes’ to at least one of these, then an Unconference is perfect for you!\nAn Unconference is intentionally a very different take on the typical academic conference. Participants are at the center of the Unconference, where the content of the conference is largely defined by what participants want to see (with a predefined overarching theme). An Unconference also encourages collaboration, whether this is collaboratively deciding on the topics for discussion, or co-creating output documents resulting from Unconference sessions.\nThe event will consist of morning workshops that will provide training in various Open Science-related skills. During lunch, there will be a marketplace where Open Science related communities, infrastructures, etc., will have the opportunity to set up a booth and interact with the participants of the event. The afternoon will consist of presentations by participants, on topics chosen by the participants, followed by discussion sessions for the presentations and additional discussion topics (including AI in archaeology). The end of the first day will consist of a brainstorming session where participants will come up with ideas for outputs for the Unconference, followed by drinks and networking. The second half-day will be a hackathon, where those interested will work on the Unconference outputs suggested during the brainstorming session of the previous day.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Open Science in Archaeology: An Unconference",
-    "section": "Contact",
-    "text": "Contact\nQuestions?\nb.p.bartholdy [at] tudelft.nl\nor\nGitHub discussions",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#funders",
-    "href": "index.html#funders",
-    "title": "Open Science in Archaeology: An Unconference",
-    "section": "Funders",
-    "text": "Funders\nOpen Science NL",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "marketplace.html",
-    "href": "marketplace.html",
-    "title": "Marketplace",
-    "section": "",
-    "text": "Here you’ll be able to explore various tools and organisations that are relevant to practicing Open Science (in archaeology). During the event, some of these organisations will also be present.",
-    "crumbs": [
-      "Marketplace"
     ]
   }
 ]
