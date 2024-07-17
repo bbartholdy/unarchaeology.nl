@@ -7,11 +7,17 @@ title: Workshops
 Workshops on Open Science topics will be given in the morning of the first day.
 We are currently [accepting proposals](registration.qmd#workshop-hosts) for 45-
 or 90-minute workshops.
+The main goal of the workshops is to help participants become more comfortable
+in practicing Open Research, and provide an introduction to, or a more advanced exploration of,
+available resources and open source tools. These can be specific to archaeology
+or more general resources.
 
 ## Guidelines for workshop proposals
 
-When preparing the description of you workshop (maximum of 200 words), make sure to include the following:
+When preparing the description of your workshop (maximum of 200 words),
+make sure to include the following:
 
 - what’s in it for the participants
 - what’s the main (learning) objective of the workshop
-- what interactive format will be used.
+- what interactive format will be used
+- what are the prerequisites (if any)
