@@ -2,6 +2,12 @@ project:
   type: website
 
 website:
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "The deadline for workshop proposals has been extended to **28th August**"
+    type: info
+    position: below-navbar
   title: UnArchaeology 2024
   site-url: "https://unarchaeology.nl"
   repo-url: "https://github.com/bbartholdy/unarchaeology.nl"

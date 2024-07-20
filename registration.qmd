@@ -27,7 +27,7 @@ to register.
 
 ## Workshop hosts
 
-**Registration for workshop hosts is now open**
+**Registration for workshop hosts is now open. Deadline: 28th July.**
 
 We welcome proposed workshops on any topic related to Open Science practices (e.g.,
 FAIR data, open source tools, etc). We will be able to accommodate 3-4 workshops
@@ -38,7 +38,7 @@ popular topics will be selected for the unconference.
 
 ## Presenters
 
-**Registration for presenters will open 21st of July**
+**Registration for presenters will open 22nd of July**
 
 We welcome all presentations on the topic of Open Science in Archaeology.
 Topics can range from Open Science
@@ -51,6 +51,6 @@ been presented at other venues; please do re-use previous presentations!
 
 ## General
 
-**General registration will open 21st of July**
+**General registration will open 22nd of July**
 
 Registration will initially only be open for workshop hosts.
