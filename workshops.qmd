@@ -5,19 +5,32 @@ title: Workshops
 ![Photo by <a href="https://unsplash.com/@jasongoodman_youxventures?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jason Goodman</a> on <a href="https://unsplash.com/photos/man-standing-behind-flat-screen-computer-monitor-bzqU01v-G54?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>](https://images.unsplash.com/photo-1557426272-fc759fdf7a8d?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){.crop}
 
 Workshops on Open Science topics will be given in the morning of the first day.
-We are currently [accepting proposals](registration.qmd#workshop-hosts) for 45-
-or 90-minute workshops.
 The main goal of the workshops is to help participants become more comfortable
 in practicing Open Research, and provide an introduction to, or a more advanced exploration of,
 available resources and open source tools. These can be specific to archaeology
 or more general resources.
 
-## Guidelines for workshop proposals
+You can register for the workshop you want to join during [registration](registration.qmd).
 
-When preparing the description of your workshop (maximum of 200 words),
-make sure to include the following:
+## Workshop topics
 
-- what’s in it for the participants
-- what’s the main (learning) objective of the workshop
-- what interactive format will be used
-- what are the prerequisites (if any)
+### Making your graphs and plots reproducible with Python
+
+Host: Alex Brandsen
+
+Want to make beautiful graphs, that scale well in publications? Hate making graphs in Excel,
+and want to easily adapt to new data? Then this is the workshop for you! Learn the basics of
+Python (no experience needed), load in some tabular data, and learn how to make reproducible
+graphs and plots.
+
+### Can we openly share archaeological location data?
+
+Hosts: Pascal Flohr & Adam Benfer
+
+Publishing research data openly is an important part of Open Science and helps to make data FAIR (Findable, Accessible, Interoperable, and Reusable). However, FAIR data is not necessarily open, and sensitive data (like personal data) does not have to, and should not, be shared openly. Location data can potentially be harmful to share -think of increased looting- but at the same time it is essential to understand and reuse many archaeological datasets. So how to strike the balance here between being as open as possible and as closed as necessary?  
+
+In this interactive workshop we will focus on finding solutions to this question. We look at other fields where this is relevant, like ecology (location of endangered species) and how they are dealing with this, as well as several archaeological case studies. This will form a framework for deciding if location data can be fully published or should be (partially) obscured. We will then introduce potential practical solutions to obscuring location data to different levels and finally discuss with the participants how to establish agreements and maintain trust when working with international partners.
+
+### Convert Archaeological Data to RDF
+
+Host: Alexandre Peixe

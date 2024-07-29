@@ -24,21 +24,9 @@ In this case you can go to the
 [Eventbrite page](https://www.eventbrite.nl/e/unarchaeology-tickets-921521093397)
 to register.
 
-
-## Workshop hosts
-
-**Registration for workshop hosts is now open. Deadline: 28th July.**
-
-We welcome proposed workshops on any topic related to Open Science practices (e.g.,
-FAIR data, open source tools, etc). We will be able to accommodate 3-4 workshops
-of 45 or 90 mins in length. If more workshop topics are proposed than we can accommodate,
-participants can indicate their preferred topics during registration and the 3-4 most
-popular topics will be selected for the unconference.
-
-
 ## Presenters
 
-**Registration for presenters will open 22nd of July**
+**Registration for presenters is now open**
 
 We welcome all presentations on the topic of Open Science in Archaeology.
 Topics can range from Open Science
@@ -51,6 +39,18 @@ been presented at other venues; please do re-use previous presentations!
 
 ## General
 
-**General registration will open 22nd of July**
+**General registration is now open**
 
-Registration will initially only be open for workshop hosts.
+General registration is now available in the Eventbrite link above. During
+registration, you will also be able to sign up for a [workshop](workshops.qmd).
+Spots are limited to 15 per workshop.
+
+## Workshop hosts
+
+**Registration for workshop hosts is now closed**
+
+We welcome proposed workshops on any topic related to Open Science practices (e.g.,
+FAIR data, open source tools, etc). We will be able to accommodate 3-4 workshops
+of 45 or 90 mins in length. If more workshop topics are proposed than we can accommodate,
+participants can indicate their preferred topics during registration and the 3-4 most
+popular topics will be selected for the unconference.

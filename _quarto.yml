@@ -5,7 +5,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "The deadline for workshop proposals has been extended to **28th August**"
+    content: "[Registration](registration.qmd) is now open!"
     type: info
     position: below-navbar
   title: UnArchaeology 2024
