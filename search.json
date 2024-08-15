@@ -1,5 +1,59 @@
 [
   {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops",
+    "section": "",
+    "text": "Photo by Jason Goodman on Unsplash\nWorkshops on Open Science topics will be given in the morning of the first day. The main goal of the workshops is to help participants become more comfortable in practicing Open Research, and provide an introduction to, or a more advanced exploration of, available resources and open source tools. These can be specific to archaeology or more general resources.\nYou can register for the workshop you want to join during registration.",
+    "crumbs": [
+      "Programme",
+      "Workshops"
+    ]
+  },
+  {
+    "objectID": "workshops.html#workshop-topics",
+    "href": "workshops.html#workshop-topics",
+    "title": "Workshops",
+    "section": "Workshop topics",
+    "text": "Workshop topics\n\nMaking your graphs and plots reproducible with Python\nHost: Alex Brandsen\nWant to make beautiful graphs, that scale well in publications? Hate making graphs in Excel, and want to easily adapt to new data? Then this is the workshop for you! Learn the basics of Python (no experience needed), load in some tabular data, and learn how to make reproducible graphs and plots.\n\n\nCan we openly share archaeological location data?\nHosts: Pascal Flohr & Adam Benfer\nPublishing research data openly is an important part of Open Science and helps to make data FAIR (Findable, Accessible, Interoperable, and Reusable). However, FAIR data is not necessarily open, and sensitive data (like personal data) does not have to, and should not, be shared openly. Location data can potentially be harmful to share -think of increased looting- but at the same time it is essential to understand and reuse many archaeological datasets. So how to strike the balance here between being as open as possible and as closed as necessary?\nIn this interactive workshop we will focus on finding solutions to this question. We look at other fields where this is relevant, like ecology (location of endangered species) and how they are dealing with this, as well as several archaeological case studies. This will form a framework for deciding if location data can be fully published or should be (partially) obscured. We will then introduce potential practical solutions to obscuring location data to different levels and finally discuss with the participants how to establish agreements and maintain trust when working with international partners.\n\n\nConvert Archaeological Data to RDF\nHost: Alexandre Peixe\nHave you ever seen data represented as a knowledge graph and asked yourself, “How do they do that?” It’s your lucky day! This workshop is perfect for you! Join us to learn how to feed your data into a knowledge graph using OntoText Refine and visualize it with GraphDB. You can even bring your data, and by the end, we can brainstorm together how it could be shaped into a format that improves context and relationship visualization and may allow enhanced data integration and retrieval.\n\n\nGeoreferencing archaeological plans with Allmaps\nHost: Jules Schoonman\nMany historical archaeological publications have been digitized by libraries and archives around the world. If such institutions support the standards of the International Image Interoperability Framework (IIIF) these resources can be georeferenced using the open source tools of Allmaps. This workshop will guide you through the process, using the collection of digitized archaeological literature of Heidelberg University as an example. It will include a demonstration of opening a resource in QGIS using the XYZ tile proxy.",
+    "crumbs": [
+      "Programme",
+      "Workshops"
+    ]
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Photo by Matthew Osborn on Unsplash\nPresentations on Open Science and archaeology topics will be given in the afternoon of the first day.\nWe welcome all presentations on the topic of Open Science in Archaeology. Topics can range from Open Science success stories (open research and education), research related to open science, useful tools (R and Python packages), and more. The sky is the limit! (figuratively speaking; topics should ideally be related to Open Science and/or archaeology) Descriptions will not be published, so we welcome relevant presentations that have already been presented at other venues; reduce, reuse, recycle!\nWe also welcome pitches, where the presenter pitches an idea or problem for the discussion or collaboration on an unconference output.\nIf there are more proposed talks than time allows, we will have a board available on the morning of the Unconference where participants can vote for the presentations they would like to attend.",
+    "crumbs": [
+      "Programme",
+      "Presentations"
+    ]
+  },
+  {
+    "objectID": "presentations.html#guidelines-for-presenters",
+    "href": "presentations.html#guidelines-for-presenters",
+    "title": "Presentations",
+    "section": "Guidelines for presenters",
+    "text": "Guidelines for presenters\nPresentations are 5-10 minutes. There will be no questions after the talks, as the next item in the programme involves discussions on the topics of the talks, and questions can be asked during this time. We also encourage further discussion during networking. If you would like to encourage a discussion from your presentation, make sure to pose some questions or items of discussion at the end of your talk.\nPitches should should give a quick overview of the discussion topic, problem, or a proposed output (such as a blog, book). Why is it relevant? What kind of help/expertise is needed? What is in it for the participants?",
+    "crumbs": [
+      "Programme",
+      "Presentations"
+    ]
+  },
+  {
+    "objectID": "marketplace.html",
+    "href": "marketplace.html",
+    "title": "Marketplace",
+    "section": "",
+    "text": "Here you’ll be able to explore various tools and organisations that are relevant to practicing Open Science (in archaeology). During the event, some of these organisations will also be present.",
+    "crumbs": [
+      "Marketplace"
+    ]
+  },
+  {
     "objectID": "registration.html",
     "href": "registration.html",
     "title": "Registration",
@@ -40,25 +94,24 @@
     ]
   },
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Workshops",
+    "objectID": "programme.html",
+    "href": "programme.html",
+    "title": "Unconference Programme",
     "section": "",
-    "text": "Photo by Jason Goodman on Unsplash\nWorkshops on Open Science topics will be given in the morning of the first day. The main goal of the workshops is to help participants become more comfortable in practicing Open Research, and provide an introduction to, or a more advanced exploration of, available resources and open source tools. These can be specific to archaeology or more general resources.\nYou can register for the workshop you want to join during registration.",
+    "text": "This is a tentative programme\nThe main Unconference activities will take place on Day 1. For those who choose to stay, Day 2 will involve working together on conference outputs that were proposed during the brainstorming session.\n\nDay 1Day 2 (optional)\n\n\n\n\n\n\n\n\n\n\n\n\nTime\n\nActivity\nDetails\nRoom\n\n\n\n\n9.30\n\nArrive\nSelf-explanatory\nSpotlight\n\n\n10.00\n\nWelcome\nWelcome presentation\nSpotlight\n\n\n10.20\n\nParallel Workshops\nMultiple skill-up workshops will be given on Open Science-related topics\nSpotlight  Concept corner  Whiteboard\n\n\n11.10\n\nBreak\nCoffee/tea break\nSpotlight\n\n\n11.25\n\nWorkshops (cont.)\nBack to the workshops\nSpotlight  Concept corner  Whiteboard\n\n\n12.15\n\nMarketplace/Lunch\nBooths will be placed in the lunch area with various Open Science-related platforms/communities\nBrainstorm\n\n\n13.30\n\nTalks\nProposed presentations will be voted on by participants during the morning and lunch.\nSpotlight\n\n\n14.30\n\nBreak\ncoffee/tea break\nSpotlight\n\n\n14.45\n\nDiscussions\nBreakout rooms to discuss the talks and other potential topics determined by participants\nSpotlight  Concept corner  Whiteboard  Brainstorm\n\n\n15.30\n\nBrainstorming\nBrainstorming potential unconference outputs to be worked on during the hackathon on day 2\nBrainstorm\n\n\n16.15\n\nWrap-up\n\nBrainstorm\n\n\n16.30\n\nNetworking\nDrinks and networking\nBrainstorm\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\n\nActivity\nDetails\nRoom\n\n\n\n\n09.00\n\nHackathon/Brainstorming\nThose who wish to stay for the optional second day will work on the unconference outputs.\nTBD\n\n\n10.30\n\nBreak\nCoffee/tea break\nTBD\n\n\n10.45\n\nHackathon\n\nTBD\n\n\n12.30\n\nLunch and wrap up\n\nTBD",
     "crumbs": [
       "Programme",
-      "Workshops"
+      "Schedule"
     ]
   },
   {
-    "objectID": "workshops.html#workshop-topics",
-    "href": "workshops.html#workshop-topics",
-    "title": "Workshops",
-    "section": "Workshop topics",
-    "text": "Workshop topics\n\nMaking your graphs and plots reproducible with Python\nHost: Alex Brandsen\nWant to make beautiful graphs, that scale well in publications? Hate making graphs in Excel, and want to easily adapt to new data? Then this is the workshop for you! Learn the basics of Python (no experience needed), load in some tabular data, and learn how to make reproducible graphs and plots.\n\n\nCan we openly share archaeological location data?\nHosts: Pascal Flohr & Adam Benfer\nPublishing research data openly is an important part of Open Science and helps to make data FAIR (Findable, Accessible, Interoperable, and Reusable). However, FAIR data is not necessarily open, and sensitive data (like personal data) does not have to, and should not, be shared openly. Location data can potentially be harmful to share -think of increased looting- but at the same time it is essential to understand and reuse many archaeological datasets. So how to strike the balance here between being as open as possible and as closed as necessary?\nIn this interactive workshop we will focus on finding solutions to this question. We look at other fields where this is relevant, like ecology (location of endangered species) and how they are dealing with this, as well as several archaeological case studies. This will form a framework for deciding if location data can be fully published or should be (partially) obscured. We will then introduce potential practical solutions to obscuring location data to different levels and finally discuss with the participants how to establish agreements and maintain trust when working with international partners.\n\n\nConvert Archaeological Data to RDF\nHost: Alexandre Peixe",
+    "objectID": "venue.html",
+    "href": "venue.html",
+    "title": "Venue",
+    "section": "",
+    "text": "PLNT\nLangegracht 70\n2312 NV LEIDEN\nNetherlands",
     "crumbs": [
-      "Programme",
-      "Workshops"
+      "Venue"
     ]
   },
   {
@@ -99,59 +152,6 @@
     "text": "Funders\nOpen Science NL",
     "crumbs": [
       "Home"
-    ]
-  },
-  {
-    "objectID": "marketplace.html",
-    "href": "marketplace.html",
-    "title": "Marketplace",
-    "section": "",
-    "text": "Here you’ll be able to explore various tools and organisations that are relevant to practicing Open Science (in archaeology). During the event, some of these organisations will also be present.",
-    "crumbs": [
-      "Marketplace"
-    ]
-  },
-  {
-    "objectID": "programme.html",
-    "href": "programme.html",
-    "title": "Unconference Programme",
-    "section": "",
-    "text": "This is a tentative programme\nThe main Unconference activities will take place on Day 1. For those who choose to stay, Day 2 will involve working together on conference outputs that were proposed during the brainstorming session.\n\nDay 1Day 2 (optional)\n\n\n\n\n\n\n\n\n\n\n\n\nTime\n\nActivity\nDetails\nRoom\n\n\n\n\n9.30\n\nArrive\nSelf-explanatory\nSpotlight\n\n\n10.00\n\nWelcome\nWelcome presentation\nSpotlight\n\n\n10.20\n\nParallel Workshops\nMultiple skill-up workshops will be given on Open Science-related topics\nSpotlight  Concept corner  Whiteboard\n\n\n11.10\n\nBreak\nCoffee/tea break\nSpotlight\n\n\n11.25\n\nWorkshops (cont.)\nBack to the workshops\nSpotlight  Concept corner  Whiteboard\n\n\n12.15\n\nMarketplace/Lunch\nBooths will be placed in the lunch area with various Open Science-related platforms/communities\nBrainstorm\n\n\n13.30\n\nTalks\nProposed presentations will be voted on by participants during the morning and lunch.\nSpotlight\n\n\n14.30\n\nBreak\ncoffee/tea break\nSpotlight\n\n\n14.45\n\nDiscussions\nBreakout rooms to discuss the talks and other potential topics determined by participants\nSpotlight  Concept corner  Whiteboard  Brainstorm\n\n\n15.30\n\nBrainstorming\nBrainstorming potential unconference outputs to be worked on during the hackathon on day 2\nBrainstorm\n\n\n16.15\n\nWrap-up\n\nBrainstorm\n\n\n16.30\n\nNetworking\nDrinks and networking\nBrainstorm\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\n\nActivity\nDetails\nRoom\n\n\n\n\n09.00\n\nHackathon/Brainstorming\nThose who wish to stay for the optional second day will work on the unconference outputs.\nTBD\n\n\n10.30\n\nBreak\nCoffee/tea break\nTBD\n\n\n10.45\n\nHackathon\n\nTBD\n\n\n12.30\n\nLunch and wrap up\n\nTBD",
-    "crumbs": [
-      "Programme",
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Photo by Matthew Osborn on Unsplash\nPresentations on Open Science and archaeology topics will be given in the afternoon of the first day.\nWe welcome all presentations on the topic of Open Science in Archaeology. Topics can range from Open Science success stories (open research and education), research related to open science, useful tools (R and Python packages), and more. The sky is the limit! (figuratively speaking; topics should ideally be related to Open Science and/or archaeology) Descriptions will not be published, so we welcome relevant presentations that have already been presented at other venues; reduce, reuse, recycle!\nWe also welcome pitches, where the presenter pitches an idea or problem for the discussion or collaboration on an unconference output.\nIf there are more proposed talks than time allows, we will have a board available on the morning of the Unconference where participants can vote for the presentations they would like to attend.",
-    "crumbs": [
-      "Programme",
-      "Presentations"
-    ]
-  },
-  {
-    "objectID": "presentations.html#guidelines-for-presenters",
-    "href": "presentations.html#guidelines-for-presenters",
-    "title": "Presentations",
-    "section": "Guidelines for presenters",
-    "text": "Guidelines for presenters\nPresentations are 5-10 minutes. There will be no questions after the talks, as the next item in the programme involves discussions on the topics of the talks, and questions can be asked during this time. We also encourage further discussion during networking. If you would like to encourage a discussion from your presentation, make sure to pose some questions or items of discussion at the end of your talk.\nPitches should should give a quick overview of the discussion topic, problem, or a proposed output (such as a blog, book). Why is it relevant? What kind of help/expertise is needed? What is in it for the participants?",
-    "crumbs": [
-      "Programme",
-      "Presentations"
-    ]
-  },
-  {
-    "objectID": "venue.html",
-    "href": "venue.html",
-    "title": "Venue",
-    "section": "",
-    "text": "PLNT\nLangegracht 70\n2312 NV LEIDEN\nNetherlands",
-    "crumbs": [
-      "Venue"
     ]
   }
 ]
