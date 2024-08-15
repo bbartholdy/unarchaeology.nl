@@ -34,3 +34,23 @@ In this interactive workshop we will focus on finding solutions to this question
 ### Convert Archaeological Data to RDF
 
 Host: Alexandre Peixe
+
+Have you ever seen data represented as a knowledge graph and asked yourself,
+"How do they do that?" It’s your lucky day! This workshop is perfect for you!
+Join us to learn how to feed your data into a knowledge graph using OntoText
+Refine and visualize it with GraphDB. You can even bring your data, and by the
+end, we can brainstorm together how it could be shaped into a format that improves
+context and relationship visualization and may allow enhanced data integration
+and retrieval.
+
+### Georeferencing archaeological plans with Allmaps
+
+Host: Jules Schoonman
+
+Many historical archaeological publications have been digitized by libraries and
+archives around the world. If such institutions support the standards of the
+International Image Interoperability Framework (IIIF) these resources can be
+georeferenced using the open source tools of Allmaps. This workshop will guide you
+through the process, using the collection of digitized archaeological literature of
+Heidelberg University as an example. It will include a demonstration of opening a
+resource in QGIS using the XYZ tile proxy.
