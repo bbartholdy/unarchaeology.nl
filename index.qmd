@@ -76,6 +76,48 @@ for outputs for the Unconference, followed by drinks and networking. The second 
 be a hackathon, where those interested will work on the Unconference outputs suggested during
 the brainstorming session of the previous day.
 
+## Code of Conduct
+
+**The code of conduct is adapted from the 
+[National Open Science Festival](https://www.opensciencefestival.nl/en/code-of-conduct).**
+
+The UnArchaeology event is organised to enable all participants to learn about,
+share, and discuss open science practices in archaeology. The purpose of this
+Code of conduct is to enable an environment in which diverse individuals can
+collaborate and interact in mutual respect. We recognise a shared responsibility to
+create and maintain that environment for the benefit of all.
+
+Some behaviours, therefore, are specifically prohibited:
+
+- discriminating, racist, intimidating, harassing, lewd, demeaning, bullying, stalking, or threatening speech or actions;
+- any real or implied threat of physical harm;
+- unwelcome sexual attention;
+- unwelcome physical contact;
+- sustained disruption of speakers or events (verbally or physically);
+- retaliation against an individual for reporting harassment or other unacceptable behaviours;
+- retaliation against an individual for participating in the investigation of a report of harassment or other unacceptable behaviours;
+- advocating or encouraging any of the above behaviours;
+- falsely reporting harassment or other unacceptable behaviours.
+
+Critical examination of beliefs and viewpoints does not, by itself, constitute
+hostile conduct or harassment. Similarly, use of sexual imagery or language in
+the context of a professional discussion might not constitute hostile conduct or
+harassment if necessary to the topic of discussion.
+
+### Reporting
+
+If someone makes you or anyone else feel unsafe or unwelcome, or if you believe a
+harassment problem exists, please report it as soon as possible to a member of the
+organising committee. If the person you should report to is the target of the
+complaint, you may contact other event organisers. The target of the complaint will
+not be involved in handling or resolving the incident. Every code of conduct
+violation report will be treated with seriousness and care.
+
+If no immediate action is required, you can also report a complaint electronically
+to ... or ...
+These complaints will be carefully reviewed and potentially followed up on after
+the event.
+
 ## Contact
 
 Questions?
@@ -89,3 +131,7 @@ or
 ## Funders
 
 [Open Science NL](https://www.openscience.nl/en)
+
+[ARCHON Research School of Archaeology](https://www.archonline.nl/)
+
+[SAILS](https://www.universiteitleiden.nl/en/sails)
