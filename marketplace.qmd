@@ -5,10 +5,16 @@ title: Marketplace
 Here you'll be able to explore various tools and organisations that are relevant to practicing
 Open Science (in archaeology). During the event, some of these organisations will also be present.
 
-## Inter-Section
+### Inter-Section
 
 Inter-Section is a Peer-reviewed open-access journal focusing on contributions from junior archaeological
 researchers at Leiden University. The journal offers an accessible platform for the publication of individual
 research by undergraduate and graduate students. 
 
 See more on [Inter-Section's website](https://www.universiteitleiden.nl/inter-section).
+
+### PCI Archaeology
+
+PCI Archaeology is a community of recommenders, acting as associate editors, who recommend unpublished articles based on peer reviews to make them complete, reliable and citable articles, without the need for publication in ‘traditional’ journals. **This process is completely free of charge**. When a recommender decide to recommend an article, they write a recommendation text that is published alongside all related editorial correspondence including reviews, recommender's decisions, and authors’ replies. The article itself is not published by PCI Archaeology: it remains on the preprint server where the author originally posted it. Authors are free to submit their revised article to any venue they choose, if any, including the diamond open-access Peer Community Journal. 
+
+See more on [PCI Archaeology's website](https://archaeo.peercommunityin.org/).
