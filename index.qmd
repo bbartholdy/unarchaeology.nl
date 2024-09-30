@@ -130,8 +130,8 @@ or
 
 ## Funders
 
-[Open Science NL](https://www.openscience.nl/en)
+[![](/images/osnl-logo.png){height="120"}](https://www.openscience.nl/en)
 
-[ARCHON Research School of Archaeology](https://www.archonline.nl/)
+[![](/images/archonline-logo-lc-2.svg){height="60"}](https://www.archonline.nl/)
 
-[SAILS](https://www.universiteitleiden.nl/en/sails)
+[![](/images/sails-logo-2.png){height="120"}](https://www.universiteitleiden.nl/en/sails)
