@@ -5,6 +5,14 @@ title: Marketplace
 Here you'll be able to explore various tools and organisations that are relevant to practicing
 Open Science (in archaeology). During the event, some of these organisations will also be present.
 
+::: {.callout-tip}
+## Promote your platform/organisation
+
+If you would like to have a table at the marketplace on the 7th of November,
+or you would like to promote your platform here, contact Bjorn at b.p.bartholdy [at] tudelft.nl.
+
+:::
+
 ### Inter-Section
 
 Inter-Section is a Peer-reviewed open-access journal focusing on contributions from junior archaeological
