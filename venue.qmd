@@ -4,11 +4,19 @@ execute:
   echo: false
 ---
 
+### Day 1 (7th November)
+
 PLNT  
 Langegracht 70  
-2312 NV LEIDEN  
+2312 NV Leiden  
 Netherlands
 
+### Day 2 (8th November)
+
+Van Steenis (Faculty of Archaeology)  
+Einsteinweg 2  
+2333 CC Leiden  
+Netherlands
 
 ```{r}
 library(leaflet)
@@ -23,7 +31,12 @@ plnt <- awesomeIcons(
         library = "ion"
 )
 uni <- awesomeIcons(
-        icon = "pencil",
+        icon = "building",
+        iconColor = "#fff",
+        library = "fa"
+)
+bus <- awesomeIcons(
+        icon = "bus",
         iconColor = "#fff",
         library = "fa"
 )
@@ -33,5 +46,17 @@ leaflet() |>
   #addMarkers(lat=52.163, lng=4.492, popup="PLNT Leiden") |>
   addAwesomeMarkers(lat=52.163631, lng=4.492347, popup="PLNT Leiden <br> Unconference venue", icon = plnt) |>
   addAwesomeMarkers(lat = 52.166249, lng = 4.481795, icon = train, popup="Leiden Central Station") |>
-  addAwesomeMarkers(lat = 52.16516, lng = 4.46403, icon = uni, popup="Faculty of Archaeology <br> Leiden University")
+  addAwesomeMarkers(lat = 52.16516, lng = 4.46403, icon = uni, popup="Faculty of Archaeology <br> Leiden University") |>
+  addAwesomeMarkers(lat = 52.164097, lng = 4.465681, icon = bus, popup="Bus stop Verbeekstraat") |>
+  addAwesomeMarkers(lat = 52.163686, lng = 4.489190, icon = bus, popup="Bus stop Energiepark")
 ```
+
+
+## Getting there
+
+PLNT is about a 15-minute walk from the central station in Leiden. You can also take a bus from the central station.
+Number 45 (to Den Haag Leidschendam), or 400 (to Zoetermeer). Exit the bus at Energiepark, Leiden.
+
+The Faculty of Archaeology is about a 20-minute walk from the central station. You can also take a bus from the central station.
+Number 430, 431, or 43 towards Katwijk. Exit the bus at stop Verbeekstraat, and the Van Steenis building will be across the street
+(the Leiden University building).
