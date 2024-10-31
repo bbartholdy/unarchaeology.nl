@@ -4,10 +4,10 @@ title: Unconference Programme
 
 **This is a tentative programme**
 
-The main Unconference activities will take place on Day 1.
-For those who choose to stay, Day 2 will involve working
-together on conference outputs that were proposed during the
-brainstorming session.
+The main Unconference activities will take place on Day 1 at PLNT in Leiden.
+For those who choose to stay, Day 2 will involve working together on conference outputs
+that were proposed during the brainstorming session. Day 2 will take place at the
+Faculty of Archaeology. More venue information [here](venue.qmd).
 
 ::: {.panel-tabset}
 ## Day 1
@@ -31,9 +31,9 @@ brainstorming session.
 
 | Time |   | Activity | Details | Room |
 |------|---|----------|---------|------|
-| 09.00 | {{< iconify noto:writing-hand-medium-dark-skin-tone size=2x >}} | Hackathon/Brainstorming | Those who wish to stay for the optional second day will work on the unconference outputs. | TBD |
-| 10.30 | {{< iconify hot-beverage size=2x >}} | Break | Coffee/tea break | TBD |
-| 10.45 | {{< iconify noto:writing-hand-light-skin-tone size=2x >}} | Hackathon | | TBD |
-| 12.30 | {{< iconify noto:sandwich size=2x >}} | Lunch and wrap up | | TBD |
+| 09.00 | {{< iconify noto:writing-hand-medium-dark-skin-tone size=2x >}} | Hackathon/Brainstorming | Those who wish to stay for the optional second day will work on the unconference outputs. | F1.03 |
+| 10.30 | {{< iconify hot-beverage size=2x >}} | Break | Coffee/tea break | F1.03 |
+| 10.45 | {{< iconify noto:writing-hand-light-skin-tone size=2x >}} | Hackathon | | F1.03 |
+| 12.30 | {{< iconify noto:sandwich size=2x >}} | Lunch and wrap up | | F1.03 |
 
 :::
