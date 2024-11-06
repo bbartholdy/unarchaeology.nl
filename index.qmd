@@ -18,7 +18,7 @@ format:
 
 **Why:** Why not?
 
-<a class="button" href="registration.html" aria-label="Go to the registration page"><span>Registration</span></a>
+**Registration is now closed**
 
 :::
 

@@ -26,7 +26,7 @@ to register.
 
 ## Presenters
 
-**Registration for presenters is now open**
+**Registration for presenters is now closed**
 
 We welcome all presentations on the topic of Open Science in Archaeology.
 Topics can range from Open Science
@@ -39,7 +39,7 @@ been presented at other venues; please do re-use previous presentations!
 
 ## General
 
-**General registration is now open**
+**General registration is now closed**
 
 General registration is now available in the Eventbrite link above. During
 registration, you will also be able to sign up for a [workshop](workshops.qmd).

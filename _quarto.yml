@@ -5,8 +5,8 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "[Registration](registration.qmd) is now open!"
-    type: info
+    content: "[Registration](registration.qmd) is now closed!"
+    type: danger
     position: below-navbar
   title: UnArchaeology 2024
   site-url: "https://unarchaeology.nl"
